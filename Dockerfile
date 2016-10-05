@@ -5,4 +5,5 @@ RUN apk add --no-cache -u \
 	musl-dev \
 	gcc \
 	make \
-	ca-certificates
+	ca-certificates \
+    libffi-dev
