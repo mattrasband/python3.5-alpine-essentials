@@ -6,4 +6,5 @@ RUN apk add --no-cache -u \
 	gcc \
 	make \
 	ca-certificates \
-    libffi-dev
+    libffi-dev \
+    g++
